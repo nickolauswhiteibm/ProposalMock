@@ -5,4 +5,4 @@ plotly
 python-dotenv
 openpyxl
 Pillow
-
+streamlit_agraph 
